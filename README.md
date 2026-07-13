@@ -8,7 +8,7 @@ I'm an aspiring data analyst who's passionate about transforming raw data into a
 ## Certifications
 | Certification | Issuing Organization | Verification Link |
 | :--- | :--- | :--- |
-| **Microsoft Office Specialist: Excel Associate** | Microsoft | [Verify Credential]([https://www.credly.com/badges/25c69592-16e4-4b23-9ac5-398e8ab969df/public_url]) |
+| **Microsoft Office Specialist: Excel Associate** | Microsoft | [Verify Credential](https://www.credly.com/badges/25c69592-16e4-4b23-9ac5-398e8ab969df/public_url) |
 
 ## Current Focus
 - 📊 Optimizing heavy analytical queries and visibility structures in BigQuery.
@@ -16,8 +16,8 @@ I'm an aspiring data analyst who's passionate about transforming raw data into a
 - 🎓 Developing structured, logic-driven materials to teach advanced problem-solving workflows.
 
 ## How to reach me:
-[**LinkedIn**]([https://www.linkedin.com/in/sofiangelinaa])
-[**Email**]([sofiangelinaa382@gmail.com])
+[**LinkedIn**](https://www.linkedin.com/in/sofiangelinaa)
+[**Email**](sofiangelinaa382@gmail.com)
 
 <!--
 **sofiaa382/sofiaa382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
